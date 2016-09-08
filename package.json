@@ -1,0 +1,13 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "test ws",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "latest",
+    "express": "^4.14.0",
+    "socketio": "^1.0.0"
+  }
+}
